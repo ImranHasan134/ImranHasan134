@@ -51,7 +51,7 @@ A passionate new learner in tech sector from Bangladesh.
 <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
 </a>
   
-<a href="https://www.fiverr.com/imranhasan134/buying?source=avatar_menu_profile" target="_blank">
+<a href="https://www.fiverr.com/imranhasan134" target="_blank">
 <img src="https://img.shields.io/badge/fiverr-%231DBF73.svg?&style=for-the-badge&logo=fiverr&logoColor=white" alt="fiverr" style="margin-bottom: 5px;" />
 </a>  
 
