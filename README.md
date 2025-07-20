@@ -63,7 +63,7 @@ A passionate new learner in tech sector from Bangladesh.
 <img src="https://img.shields.io/badge/upwork-white.svg?&style=for-the-badge&logo=upwork&logoColor=black&color=white" alt="upwork" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://github.com/ImranHasan2955" target="_blank">
+<a href="https://github.com/ImranHasan134" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>  
 
