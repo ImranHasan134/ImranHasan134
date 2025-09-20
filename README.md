@@ -66,11 +66,3 @@ A passionate new learner in tech sector from Bangladesh.
 <a href="https://github.com/ImranHasan134" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>  
-
-</div>
-
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranHasan2955&hide_border=true&layout=compact" align="center" /></div>
-<br />
